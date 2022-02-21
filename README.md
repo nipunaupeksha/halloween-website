@@ -9,4 +9,3 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ![halloween](/preview.png)
-# halloween-website
